@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  margin: 100px;
 }
 
 .App-logo {
@@ -35,4 +36,16 @@
   to {
     transform: rotate(360deg);
   }
+}
+.image {
+  width: 150px;
+  height: 250px;
+}
+.products-view {
+  display: inline;
+  background-color: #61dafb;
+  margin: 100px;
+}
+.products-view div {
+  display: inline-block;
 }
